@@ -1,3 +1,4 @@
 {
-    "mongoURI":"mongodb://nico123:nico123@devconnector-shard-00-00.ghfzj.mongodb.net:27017,devconnector-shard-00-01.ghfzj.mongodb.net:27017,devconnector-shard-00-02.ghfzj.mongodb.net:27017/test?ssl=true&replicaSet=atlas-yqbu2f-shard-0&authSource=admin&retryWrites=true&w=majority"
+    "mongoURI":"mongodb://nico123:nico123@devconnector-shard-00-00.ghfzj.mongodb.net:27017,devconnector-shard-00-01.ghfzj.mongodb.net:27017,devconnector-shard-00-02.ghfzj.mongodb.net:27017/test?ssl=true&replicaSet=atlas-yqbu2f-shard-0&authSource=admin&retryWrites=true&w=majority",
+    "jwtSecret":"thisisasecrettoken"
 }
