@@ -4,3 +4,7 @@
 
 1. Backend: Express, Express-Validator, BcryptJS, Config, Gravatar, JWT, Mongoose, Request
 2. Backend-Dev: Nodemon, Concurrently
+
+## Run development server with
+
+`npm run server`
