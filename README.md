@@ -8,3 +8,12 @@
 ## Run development server with
 
 `npm run server`
+
+## Run client
+
+`cd client`
+`npm start`
+
+## Run both client and server
+
+`npm run dev`
