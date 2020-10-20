@@ -4,6 +4,7 @@
 
 1. Backend: Express, Express-Validator, BcryptJS, Config, Gravatar, JWT, Mongoose, Request
 2. Backend-Dev: Nodemon, Concurrently
+3. Frontend: axios, react-router-dom, redux, react-redux, redux-thunk, redux-devtools-extension, moment, react-moment, uuid
 
 ## Run development server with
 
