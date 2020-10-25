@@ -1,10 +1,18 @@
-# DevConnector
+# Developer Connector
+
+A post forum for developers.
+
+## Demo Link
+
+<https://mernstack-devconnector.herokuapp.com/>
+
+![Screenshot Image](https://github.com/eunicocornelius/mern_devconnector/blob/master/client/src/img/home_ss.png)
 
 ## Technologies being used in this project
 
-1. Backend: Express, Express-Validator, BcryptJS, Config, Gravatar, JWT, Mongoose, Request
-2. Backend-Dev: Nodemon, Concurrently
-3. Frontend: axios, react-router-dom, redux, react-redux, redux-thunk, redux-devtools-extension, moment, react-moment, uuid
+1. **Backend**: Express, Express-Validator, BcryptJS, Config, Gravatar, JWT, Mongoose, Request
+2. **Backend-Dev**: Nodemon, Concurrently
+3. **Frontend**: axios, react-router-dom, redux, react-redux, redux-thunk, redux-devtools-extension, moment, react-moment, uuid
 
 ## Run development server with
 
