@@ -5,7 +5,7 @@ A post forum for developers.
 ## Demo Link
 
 <https://mernstack-devconnector.herokuapp.com/>
-
+[Please contact me if link is not working as MongoDB goes offline when inactive]
 ![Screenshot Image](https://github.com/eunicocornelius/mern_devconnector/blob/master/client/src/img/home_ss.png)
 
 ## Technologies being used in this project
